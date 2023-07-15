@@ -16,7 +16,7 @@ Here will be some beautiful very academic text<img src="https://media.giphy.com/
 
 - :zap: something.
 
-- :mailbox: Lets talk! [![Telegram Badge](https://img.shields.io/badge/Alena-Nechaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nechaeva_alena28)
+- :telegram: Lets talk! [![Telegram Badge](https://img.shields.io/badge/Alena-Nechaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nechaeva_alena28)
 
 ---
 
@@ -60,6 +60,6 @@ Here will be some beautiful very academic text<img src="https://media.giphy.com/
 
 ### ⚙️ GitHub statistic:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alena-Nechaeva)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alena-Nechaeva&show_icons=true&theme=radical)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alena-Nechaeva)
