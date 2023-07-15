@@ -10,13 +10,13 @@ Here will be some beautiful very academic text   <img src="https://images6.fanpo
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: something.
+- :sparkles: :trophy: something.
 
 - :seedling: something!
 
 - :zap: something.
 
-- :telegram: Lets talk! [![Telegram Badge](https://img.shields.io/badge/Alena-Nechaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nechaeva_alena28)
+- :wave: Lets talk! [![Telegram Badge](https://img.shields.io/badge/Alena-Nechaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nechaeva_alena28)
 
 ---
 
