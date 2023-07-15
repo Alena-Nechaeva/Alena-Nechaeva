@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About me:
 
-Here will be some beautiful very academic text<img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px"> one day!
+Here will be some beautiful very academic text   <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px">    one day!
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
