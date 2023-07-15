@@ -53,6 +53,6 @@ Here will be some beautiful very academic text<img src="https://media.giphy.com/
 
 ### ⚙️ GitHub statistic:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alena-Nechaeva&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena-Nechaeva&layout=compact&theme=cobalt)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alena-Nechaeva)
