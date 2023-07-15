@@ -16,7 +16,7 @@ Here will be some beautiful very academic text<img src="https://media.giphy.com/
 
 - :zap: something.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Alena-Nechaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nechaeva_alena28) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nechaeva.alena28@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/Alena-Nechaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nechaeva_alena28) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nechaeva.alena28@gmail.com)
 
 ---
 
