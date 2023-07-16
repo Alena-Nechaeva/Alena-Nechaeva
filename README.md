@@ -54,5 +54,3 @@ Here will be some beautiful very academic text   <img src="https://images6.fanpo
 ### ⚙️ GitHub statistic:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena-Nechaeva&layout=compact&theme=cobalt)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Alena-Nechaeva)
