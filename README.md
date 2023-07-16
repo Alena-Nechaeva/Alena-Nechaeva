@@ -1,6 +1,9 @@
 # Hi, my name is Ale!
+
 ---
+
 ### :woman_technologist: About me:
+
 Here will be some beautiful very academic text <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px"> one day!
 
 <p align="center">
@@ -16,6 +19,7 @@ Here will be some beautiful very academic text <img src="https://images6.fanpop.
 - :wave: Lets talk! [![Telegram Badge](https://img.shields.io/badge/Alena-Nechaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nechaeva_alena28)
 
 ### 💻 Technologies:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -34,15 +38,17 @@ Here will be some beautiful very academic text <img src="https://images6.fanpop.
 </div>
 
 ### 💻 Codewars:
+
 ![codewars](https://www.codewars.com/users/Alena%20Nechaeva/badges/large)
 
 ### ⚙️ GitHub statistic:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena-Nechaeva&layout=compact&theme=cobalt)
 
 <table>
   <tr>
     <td width='320px'>
-          <img src='assets/timelines.gif' width='300px'>
+          <img src='assets//demos/blanchard.gif' width='300px'>
     </td>
     <td>
       <h3>Project Name</h3>
