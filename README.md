@@ -56,7 +56,7 @@ const ale = {
 ### Projects overview:
 
 <table>
-  <tr>
+  <tr style='padding: 30px 0'>
     <td width='480px'>
       <img src='assets//demos/blanchard.gif' width='460px'>
     </td>
@@ -78,7 +78,7 @@ const ale = {
       </ul>
     </td>
   </tr>
-  <tr>
+  <tr style='padding: 30px 0'>
     <td width='480px'>
       <img src='assets//demos/memory.gif' width='460px'>
     </td>
@@ -88,6 +88,19 @@ const ale = {
       <p>Technologies: JS native</p>
       <p>
         <a href='https://alena-nechaeva.github.io/Pairs-card-game/'>View on GitHub Pages</a>
+      </p>
+    </td>
+  </tr>
+  <tr style='padding: 30px 0'>
+    <td width='480px'>
+      <img src='assets//demos/students.gif' width='460px'>
+    </td>
+    <td>
+      <h3>Students control panel</h3>
+      <p>Training project for JS basic course</p>
+      <p>Technologies: JS native, Local Storage, OOP</p>
+      <p>
+        <a href='https://alena-nechaeva.github.io/students-control-panel/'>View on GitHub Pages</a>
       </p>
     </td>
   </tr>
