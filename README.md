@@ -60,7 +60,7 @@ const ale = {
     <td width='440px'>
       <img src='assets//demos/blanchard.gif' width='400px'>
     </td>
-    <td>
+    <td with='400px'>
       <h3>Blanchard Gallery</h3>
       <p>Training project for web-layout basic course</p>
       <p>Technologies: HTML, CSS, JS</p>
@@ -82,7 +82,7 @@ const ale = {
     <td width='440px'>
       <img src='assets//demos/memory.gif' width='400px'>
     </td>
-    <td>
+    <td with='400px'>
       <h3>Simple Memory Game</h3>
       <p>Training project for JS basic course</p>
       <p>Technologies: JS native</p>
@@ -95,7 +95,7 @@ const ale = {
     <td width='440px'>
       <img src='assets//demos/students.gif' width='400px'>
     </td>
-    <td>
+    <td with='400px'>
       <h3>Students control panel</h3>
       <p>Training project for JS basic course</p>
       <p>Technologies: JS native, Local Storage, OOP</p>
