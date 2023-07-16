@@ -4,23 +4,24 @@
 ```javascript
 const ale = {
   technologies: {
-    code: [Javascript, Typescript, HTML, CSS, SASS],
-    tools: [React, Redux, Jest, Cypress],
-    mustHave: [GIT, WebPack, Gulp],
+    code: ['JS', 'TS', 'HTML', 'CSS', 'SASS'],
+    tools: ['React', 'Redux', 'Jest', 'Cypress'],
+    mustHave: ['GIT', 'WebPack', 'Gulp'],
   },
   others: {
-    graphics: [Figma, Photoshop],
-    architecture: [SPA, MPA],
+    graphics: ['Figma', 'Photoshop'],
+    architecture: ['SPA', 'MPA'],
     softSkills: [
       'Problem-solving',
       'Time management',
       'Teamwork and collaboration',
       'Analytical thinking',
       'Passion for learning new things',
-    ] 
+    ],
   },
-  funFact: "There are two ways to write error-free programs; only the third one works"
+  funFact: 'There are two ways to write error-free programs; only the third one works',
 };
+
 ```
 ### 💻 Skills:
 <div>
