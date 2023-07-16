@@ -57,10 +57,10 @@ const ale = {
 
 <table>
   <tr>
-    <td width='480px' style='padding: 30px 0'>
-      <img src='assets//demos/blanchard.gif' width='460px'>
+    <td width='440px'>
+      <img src='assets//demos/blanchard.gif' width='400px'>
     </td>
-    <td style='padding: 30px 0'>
+    <td>
       <h3>Blanchard Gallery</h3>
       <p>Training project for web-layout basic course</p>
       <p>Technologies: HTML, CSS, JS</p>
@@ -79,10 +79,10 @@ const ale = {
     </td>
   </tr>
   <tr>
-    <td width='480px' style='padding: 30px 0'>
-      <img src='assets//demos/memory.gif' width='460px'>
+    <td width='440px'>
+      <img src='assets//demos/memory.gif' width='400px'>
     </td>
-    <td style='padding: 30px 0'>
+    <td>
       <h3>Simple Memory Game</h3>
       <p>Training project for JS basic course</p>
       <p>Technologies: JS native</p>
@@ -92,10 +92,10 @@ const ale = {
     </td>
   </tr>
   <tr>
-    <td width='480px' style='padding: 30px 0'>
-      <img src='assets//demos/students.gif' width='460px'>
+    <td width='440px'>
+      <img src='assets//demos/students.gif' width='400px'>
     </td>
-    <td style='padding: 30px 0'>
+    <td>
       <h3>Students control panel</h3>
       <p>Training project for JS basic course</p>
       <p>Technologies: JS native, Local Storage, OOP</p>
