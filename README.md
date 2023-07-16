@@ -1,19 +1,14 @@
-# Hi, my name is Ale!
-
-<img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px">
-
----
+# Hi, my name is Ale! <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px">
 
 ### :woman_technologist: About me:
-
 ```javascript
 const ale = {
   technologies: {
     code: [Javascript, Typescript, HTML, CSS, SASS],
     tools: [React, Redux, Jest, Cypress],
     mustHave: [GIT, WebPack, Gulp],
-  }
-  other:{
+  },
+  others: {
     graphics: [Figma, Photoshop],
     architecture: [SPA, MPA],
     softSkills: [
@@ -23,13 +18,11 @@ const ale = {
       'Analytical thinking',
       'Passion for learning new things',
     ] 
-  }
+  },
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
 ### 💻 Skills:
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
