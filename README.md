@@ -45,7 +45,7 @@ Here will be some beautiful very academic text <img src="https://images6.fanpop.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena-Nechaeva&layout=compact&theme=cobalt)
 
-<table>
+<table width='100%'>
   <tr>
     <td width='320px'>
           <img src='assets//demos/blanchard.gif' width='300px'>
