@@ -56,11 +56,11 @@ const ale = {
 ### Projects overview:
 
 <table>
-  <tr style='padding: 30px 0'>
-    <td width='480px'>
+  <tr>
+    <td width='480px' style='padding: 30px 0'>
       <img src='assets//demos/blanchard.gif' width='460px'>
     </td>
-    <td>
+    <td style='padding: 30px 0'>
       <h3>Blanchard Gallery</h3>
       <p>Training project for web-layout basic course</p>
       <p>Technologies: HTML, CSS, JS</p>
@@ -78,11 +78,11 @@ const ale = {
       </ul>
     </td>
   </tr>
-  <tr style='padding: 30px 0'>
-    <td width='480px'>
+  <tr>
+    <td width='480px' style='padding: 30px 0'>
       <img src='assets//demos/memory.gif' width='460px'>
     </td>
-    <td>
+    <td style='padding: 30px 0'>
       <h3>Simple Memory Game</h3>
       <p>Training project for JS basic course</p>
       <p>Technologies: JS native</p>
@@ -91,11 +91,11 @@ const ale = {
       </p>
     </td>
   </tr>
-  <tr style='padding: 30px 0'>
-    <td width='480px'>
+  <tr>
+    <td width='480px' style='padding: 30px 0'>
       <img src='assets//demos/students.gif' width='460px'>
     </td>
-    <td>
+    <td style='padding: 30px 0'>
       <h3>Students control panel</h3>
       <p>Training project for JS basic course</p>
       <p>Technologies: JS native, Local Storage, OOP</p>
