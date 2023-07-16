@@ -23,6 +23,8 @@ const ale = {
 };
 
 ```
+---
+
 ### 💻 Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -41,13 +43,19 @@ const ale = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/>&nbsp;
 </div>
 
+---
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Alena%20Nechaeva/badges/large)
 
+---
+
 ### ⚙️ GitHub statistic:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena-Nechaeva&layout=compact&theme=cobalt)
+
+---
 
 <table>
   <tr>
