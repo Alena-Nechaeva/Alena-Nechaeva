@@ -1,6 +1,9 @@
 # Hi, my name is Ale! <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px">
 
+---
+
 ### :woman_technologist: About me:
+
 ```javascript
 const ale = {
   technologies: {
@@ -22,7 +25,7 @@ const ale = {
   funFact: 'There are two ways to write error-free programs; only the third one works',
 };
 
-```
+---
 ### 💻 Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -41,13 +44,19 @@ const ale = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/>&nbsp;
 </div>
 
+---
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Alena%20Nechaeva/badges/large)
 
+---
+
 ### ⚙️ GitHub statistic:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena-Nechaeva&layout=compact&theme=cobalt)
+
+---
 
 <table>
   <tr>
@@ -234,3 +243,4 @@ const ale = {
     </td>
   </tr>
 </table> -->
+```
