@@ -45,12 +45,12 @@ Here will be some beautiful very academic text <img src="https://images6.fanpop.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena-Nechaeva&layout=compact&theme=cobalt)
 
-<table width='100%'>
+<table>
   <tr>
     <td width='320px'>
           <img src='assets//demos/blanchard.gif' width='300px'>
     </td>
-    <td>
+    <td max-width='400px'>
       <h3>Project Name</h3>
       <p>tags</p>
       <p>more tags?</p>
