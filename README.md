@@ -1,24 +1,34 @@
 # Hi, my name is Ale!
 
+<img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px">
+
 ---
 
 ### :woman_technologist: About me:
 
-Here will be some beautiful very academic text <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px"> one day!
+```javascript
+const ale = {
+  technologies: {
+    code: [Javascript, Typescript, HTML, CSS, SASS],
+    tools: [React, Redux, Jest, Cypress],
+    mustHave: [GIT, WebPack, Gulp],
+  }
+  other:{
+    graphics: [Figma, Photoshop],
+    architecture: [SPA, MPA],
+    softSkills: [
+      'Problem-solving',
+      'Time management',
+      'Teamwork and collaboration',
+      'Analytical thinking',
+      'Passion for learning new things',
+    ] 
+  }
+  funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-- :sparkles: :trophy: something.
-
-- :seedling: something!
-
-- :zap: something.
-
-- :wave: Lets talk! [![Telegram Badge](https://img.shields.io/badge/Alena-Nechaeva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nechaeva_alena28)
-
-### 💻 Technologies:
+### 💻 Skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
