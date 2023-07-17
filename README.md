@@ -66,6 +66,8 @@ const ale = {
       <p>Technologies: HTML, CSS, JS</p>
       <p>
         <a href='https://alena-nechaeva.github.io/final_project_BLANCHARD/'>View Blanchard on GitHub Pages</a>
+      </p>
+      <p>
         <a href='https://github.com/Alena-Nechaeva/final_project_BLANCHARD'>Go to GitHub repository</a>
       </p>
       <p>JS libraries:</p>
