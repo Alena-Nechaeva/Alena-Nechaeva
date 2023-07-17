@@ -66,6 +66,7 @@ const ale = {
       <p>Technologies: HTML, CSS, JS</p>
       <p>
         <a href='https://alena-nechaeva.github.io/final_project_BLANCHARD/'>View Blanchard on GitHub Pages</a>
+        <a href='https://github.com/Alena-Nechaeva/final_project_BLANCHARD'>Go to GitHub repository</a>
       </p>
       <p>JS libraries:</p>
       <ul>
@@ -88,6 +89,7 @@ const ale = {
       <p>Technologies: JS native</p>
       <p>
         <a href='https://alena-nechaeva.github.io/Pairs-card-game/'>View on GitHub Pages</a>
+        <a href='https://github.com/Alena-Nechaeva/Pairs-card-game'>Go to GitHub repository</a>
       </p>
     </td>
   </tr>
@@ -101,6 +103,7 @@ const ale = {
       <p>Technologies: JS native, Local Storage, OOP</p>
       <p>
         <a href='https://alena-nechaeva.github.io/students-control-panel/'>View on GitHub Pages</a>
+        <a href='https://github.com/Alena-Nechaeva/students-control-panel'>Go to GitHub repository</a>
       </p>
     </td>
   </tr>
@@ -116,6 +119,7 @@ const ale = {
       <p>Slider JS, Choices, Inputmask</p>
       <p>
         <a href='https://alena-nechaeva.github.io/SitDownPls-build/'>View on GitHub Pages</a>
+        <a href='https://github.com/Alena-Nechaeva/SitDownPls-src'>Go to GitHub repository</a>
       </p>
     </td>
   </tr>
@@ -128,7 +132,7 @@ const ale = {
       <p>Course project for JS basic course</p>
       <p>Technologies: JS native, OOP, Local Storage</p>
       <p>
-        <a href='https://github.com/Alena-Nechaeva/Final-Project-CRM-Clients'>Go to GITHUB repository</a>
+        <a href='https://github.com/Alena-Nechaeva/Final-Project-CRM-Clients'>Go to GitHub repository</a>
       </p>
     </td>
   </tr>
