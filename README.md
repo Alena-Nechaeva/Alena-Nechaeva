@@ -41,7 +41,7 @@ const ale = {
 
 ---
 
-### 💻 Codewars:
+### :bulb: Codewars:
 
 ![codewars](https://www.codewars.com/users/Alena%20Nechaeva/badges/large)
 
@@ -62,7 +62,7 @@ const ale = {
     </td>
     <td with='400px'>
       <h3>Blanchard Gallery</h3>
-      <p>Training project for web-layout basic course</p>
+      <p>Course project for web-layout basic course</p>
       <p>Technologies: HTML, CSS, JS</p>
       <p>
         <a href='https://alena-nechaeva.github.io/final_project_BLANCHARD/'>View Blanchard on GitHub Pages</a>
@@ -101,6 +101,34 @@ const ale = {
       <p>Technologies: JS native, Local Storage, OOP</p>
       <p>
         <a href='https://alena-nechaeva.github.io/students-control-panel/'>View on GitHub Pages</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width='440px'>
+      <img src='assets//demos/sitDwnPls.gif' width='400px'>
+    </td>
+    <td with='400px'>
+      <h3>Online shop SitDownPls</h3>
+      <p>MPA. Course project for Web-layout advanced course</p>
+      <p>Technologies: JS native, Sass, Gulp, HTML modules</p>
+      <p>JS libraries:</p>
+      <p>Slider JS, Choices, Inputmask</p>
+      <p>
+        <a href='https://alena-nechaeva.github.io/SitDownPls-build/'>View on GitHub Pages</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width='440px'>
+      <img src='assets//demos/clients.gif' width='400px'>
+    </td>
+    <td with='400px'>
+      <h3>Simple CRM</h3>
+      <p>Course project for JS basic course</p>
+      <p>Technologies: JS native, OOP, Local Storage</p>
+      <p>
+        <a href='https://github.com/Alena-Nechaeva/Final-Project-CRM-Clients'>Go to GITHUB repository</a>
       </p>
     </td>
   </tr>
