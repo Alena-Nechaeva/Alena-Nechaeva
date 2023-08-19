@@ -1,4 +1,4 @@
-# Hi, I'm Ale!
+# Hi, I'm Ale :wave: Welcome to my GitHub!
 
 ### <img src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" width="30px"> About me:
 
@@ -66,6 +66,8 @@ const ale = {
       <p>Technologies: HTML, CSS, JS</p>
       <p>
         <a href='https://alena-nechaeva.github.io/final_project_BLANCHARD/'>View Blanchard on GitHub Pages</a>
+      </p>
+      <p>
         <a href='https://github.com/Alena-Nechaeva/final_project_BLANCHARD'>Go to GitHub repository</a>
       </p>
       <p>JS libraries:</p>
