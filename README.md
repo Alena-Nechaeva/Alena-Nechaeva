@@ -186,17 +186,17 @@ const ale = {
       </p>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td width='440px'>
       <img src='assets//demos/reddit-mirror.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Star Wars API</h3>
       <p>Training project for React course. This project is still in work. </p>
-      <p>Technologies: React, TypeScript, SSP, reddit API</p>
+      <p>Technologies: React native, TypeScript, SSR, reddit API</p>
       <p>
         <a href='https://github.com/Alena-Nechaeva/reddit-mirror'>Go to GitHub repository</a>
       </p>
     </td>
-  </tr> -->
+  </tr>
 </table>
