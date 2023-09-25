@@ -191,7 +191,7 @@ const ale = {
       <img src='assets//demos/reddit-mirror.gif' width='400px'>
     </td>
     <td with='400px'>
-      <h3>Star Wars API</h3>
+      <h3>Reddit mirror (react traing project)I</h3>
       <p>Training project for React course. This project is still in work. </p>
       <p>Technologies: React native, TypeScript, SSR, reddit API</p>
       <p>
