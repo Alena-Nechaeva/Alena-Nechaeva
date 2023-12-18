@@ -5,8 +5,8 @@
 ```javascript
 const ale = {
   technologies: {
-    code: ['JS', 'TS', 'HTML', 'CSS', 'SASS'],
-    tools: ['React', 'Redux', 'Jest', 'Cypress'],
+    code: ['JS', 'TS', , 'Tailwindcss', 'HTML5', 'CSS/SASS'],
+    tools: ['NextJS', 'ReactJS', 'Redux', 'Jest', 'Cypress'],
     mustHave: ['GIT', 'WebPack', 'Gulp'],
   },
   others: {
@@ -29,10 +29,10 @@ const ale = {
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp -->
@@ -41,7 +41,7 @@ const ale = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/>&nbsp;
+  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/>&nbsp; -->
 </div>
 
 ---
@@ -70,10 +70,10 @@ const ale = {
       <p>Training project for React course. </p>
       <p>Technologies: NextJS, Tailwindcss, ChartJS, Moment, IndexedDB</p>
       <p>
-        <a href='https://https://pomodoro-timer-beta.vercel.app/'>View on Vercel</a>
+        <a href='https://pomodoro-timer-beta.vercel.app/'>View on Vercel</a>
       </p>
       <p>
-        <a href='https://github.com/Alena-Nechaeva/reddit-mirror'>Go to GitHub repository</a>
+        <a href='https://github.com/Alena-Nechaeva/pomodoro-timer'>Go to GitHub repository</a>
       </p>
     </td>
   </tr>
