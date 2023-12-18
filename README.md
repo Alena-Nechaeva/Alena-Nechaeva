@@ -12,7 +12,12 @@ const ale = {
   others: {
     graphics: ['Figma', 'Photoshop'],
     architecture: ['SPA', 'MPA'],
-    softSkills: ['Problem-solving', 'Time management', 'Teamwork and collaboration', 'Passion for learning new things'],
+    softSkills: [
+      'Problem-solving',
+      'Time management',
+      'Teamwork and collaboration',
+      'Passion for learning new things',
+    ],
   },
   funFact: 'There are two ways to write error-free programs; only the third one works',
 };
@@ -56,60 +61,45 @@ const ale = {
 ### Projects overview:
 
 <table>
-  <tr>
+<tr>
     <td width='440px'>
-      <img src='assets//demos/blanchard.gif' width='400px'>
+      <img src='assets//demos/pomodoro.png' width='400px'>
     </td>
     <td with='400px'>
-      <h3>Blanchard Gallery</h3>
-      <p>Course project for web-layout basic course</p>
-      <p>Technologies: HTML, CSS, JS</p>
+      <h3>Pomodoro timer</h3>
+      <p>Training project for React course. </p>
+      <p>Technologies: NextJS, Tailwindcss, ChartJS, Moment, IndexedDB</p>
       <p>
-        <a href='https://alena-nechaeva.github.io/final_project_BLANCHARD/'>View Blanchard on GitHub Pages</a>
+        <a href='https://https://pomodoro-timer-beta.vercel.app/'>View on Vercel</a>
       </p>
       <p>
-        <a href='https://github.com/Alena-Nechaeva/final_project_BLANCHARD'>Go to GitHub repository</a>
-      </p>
-      <p>JS libraries:</p>
-      <ul>
-        <li>Slider JS</li>
-        <li>Accordion JS</li>
-        <li>Choices</li>
-        <li>Just-validate</li>
-        <li>Inputmask</li>
-        <li>Tippy</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width='440px'>
-      <img src='assets//demos/memory.gif' width='400px'>
-    </td>
-    <td with='400px'>
-      <h3>Simple Memory Game</h3>
-      <p>Training project for JS basic course</p>
-      <p>Technologies: JS native</p>
-      <p>
-        <a href='https://alena-nechaeva.github.io/Pairs-card-game/'>View on GitHub Pages</a>
-      </p>
-      <p>
-        <a href='https://github.com/Alena-Nechaeva/Pairs-card-game'>Go to GitHub repository</a>
+        <a href='https://github.com/Alena-Nechaeva/reddit-mirror'>Go to GitHub repository</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width='440px'>
-      <img src='assets//demos/students.gif' width='400px'>
+      <img src='assets//demos/reddit-mirror.gif' width='400px'>
     </td>
     <td with='400px'>
-      <h3>Students control panel</h3>
-      <p>Training project for JS basic course</p>
-      <p>Technologies: JS native, Local Storage, OOP</p>
+      <h3>Reddit Mirror</h3>
+      <p>Training project for React course. </p>
+      <p>Technologies: React JS, TypeScript, SSR, reddit API</p>
       <p>
-        <a href='https://alena-nechaeva.github.io/students-control-panel/'>View on GitHub Pages</a>
+        <a href='https://github.com/Alena-Nechaeva/reddit-mirror'>Go to GitHub repository</a>
       </p>
+    </td>
+  </tr>
+   <tr>
+    <td width='440px'>
+      <img src='assets//demos/clients.gif' width='400px'>
+    </td>
+    <td with='400px'>
+      <h3>Simple CRM</h3>
+      <p>Course project for JS basic course</p>
+      <p>Technologies: JS native, OOP, Local Storage</p>
       <p>
-        <a href='https://github.com/Alena-Nechaeva/students-control-panel'>Go to GitHub repository</a>
+        <a href='https://github.com/Alena-Nechaeva/Final-Project-CRM-Clients'>Go to GitHub repository</a>
       </p>
     </td>
   </tr>
@@ -128,19 +118,6 @@ const ale = {
       </p>
       <p>
         <a href='https://github.com/Alena-Nechaeva/SitDownPls-src'>Go to GitHub repository</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width='440px'>
-      <img src='assets//demos/clients.gif' width='400px'>
-    </td>
-    <td with='400px'>
-      <h3>Simple CRM</h3>
-      <p>Course project for JS basic course</p>
-      <p>Technologies: JS native, OOP, Local Storage</p>
-      <p>
-        <a href='https://github.com/Alena-Nechaeva/Final-Project-CRM-Clients'>Go to GitHub repository</a>
       </p>
     </td>
   </tr>
@@ -172,6 +149,38 @@ const ale = {
   </tr>
   <tr>
     <td width='440px'>
+      <img src='assets//demos/students.gif' width='400px'>
+    </td>
+    <td with='400px'>
+      <h3>Students control panel</h3>
+      <p>Training project for JS basic course</p>
+      <p>Technologies: JS native, Local Storage, OOP</p>
+      <p>
+        <a href='https://alena-nechaeva.github.io/students-control-panel/'>View on GitHub Pages</a>
+      </p>
+      <p>
+        <a href='https://github.com/Alena-Nechaeva/students-control-panel'>Go to GitHub repository</a>
+      </p>
+    </td>
+  </tr>
+    <tr>
+    <td width='440px'>
+      <img src='assets//demos/memory.gif' width='400px'>
+    </td>
+    <td with='400px'>
+      <h3>Simple Memory Game</h3>
+      <p>Training project for JS basic course</p>
+      <p>Technologies: JS native</p>
+      <p>
+        <a href='https://alena-nechaeva.github.io/Pairs-card-game/'>View on GitHub Pages</a>
+      </p>
+      <p>
+        <a href='https://github.com/Alena-Nechaeva/Pairs-card-game'>Go to GitHub repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width='440px'>
       <img src='assets//demos/star-wars-api.gif' width='400px'>
     </td>
     <td with='400px'>
@@ -186,17 +195,29 @@ const ale = {
       </p>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td width='440px'>
-      <img src='assets//demos/reddit-mirror.gif' width='400px'>
+      <img src='assets//demos/blanchard.gif' width='400px'>
     </td>
     <td with='400px'>
-      <h3>Star Wars API</h3>
-      <p>Training project for React course. This project is still in work. </p>
-      <p>Technologies: React native, TypeScript, SSR, reddit API</p>
+      <h3>Blanchard Gallery</h3>
+      <p>Course project for web-layout basic course</p>
+      <p>Technologies: HTML, CSS, JS</p>
       <p>
-        <a href='https://github.com/Alena-Nechaeva/reddit-mirror'>Go to GitHub repository</a>
+        <a href='https://alena-nechaeva.github.io/final_project_BLANCHARD/'>View Blanchard on GitHub Pages</a>
       </p>
+      <p>
+        <a href='https://github.com/Alena-Nechaeva/final_project_BLANCHARD'>Go to GitHub repository</a>
+      </p>
+      <p>JS libraries:</p>
+      <ul>
+        <li>Slider JS</li>
+        <li>Accordion JS</li>
+        <li>Choices</li>
+        <li>Just-validate</li>
+        <li>Inputmask</li>
+        <li>Tippy</li>
+      </ul>
     </td>
   </tr>
 </table>
