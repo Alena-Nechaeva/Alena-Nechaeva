@@ -200,9 +200,12 @@ const ale = {
       <img src='assets//demos/blanchard.gif' width='400px'>
     </td>
     <td with='400px'>
-      <h3>Star Wars API</h3>
-      <p>Training project for React course. This project is still in work. </p>
-      <p>Technologies: React native, TypeScript, SSR, reddit API</p>
+      <h3>Blanchard Gallery</h3>
+      <p>Course project for web-layout basic course</p>
+      <p>Technologies: HTML, CSS, JS</p>
+      <p>
+        <a href='https://alena-nechaeva.github.io/final_project_BLANCHARD/'>View Blanchard on GitHub Pages</a>
+      </p>
       <p>
         <a href='https://github.com/Alena-Nechaeva/final_project_BLANCHARD'>Go to GitHub repository</a>
       </p>
