@@ -12,12 +12,7 @@ const ale = {
   others: {
     graphics: ['Figma', 'Photoshop'],
     architecture: ['SPA', 'MPA'],
-    softSkills: [
-      'Problem-solving',
-      'Time management',
-      'Teamwork and collaboration',
-      'Passion for learning new things',
-    ],
+    softSkills: ['Problem-solving', 'Time management', 'Teamwork and collaboration', 'Passion for learning new things'],
   },
   funFact: 'There are two ways to write error-free programs; only the third one works',
 };
@@ -65,6 +60,20 @@ const ale = {
 <table>
 <tr>
     <td width='440px'>
+      <img src='assets/demos/php-course.png' width='400px'>
+    </td>
+    <td with='400px'>
+      <h3>REST API built with native PHP</h3>
+      <p>Training project for PHP course. </p>
+      <p>Technologies: PHP native</p>
+      <p>
+        <a href='https://github.com/Alena-Nechaeva/fileStoragePHP'>Go to GitHub repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+<tr>
+    <td width='440px'>
       <img src='assets//demos/pomodoro.png' width='400px'>
     </td>
     <td with='400px'>
@@ -81,7 +90,7 @@ const ale = {
   </tr>
   <tr>
     <td width='440px'>
-      <img src='assets//demos/reddit-mirror.gif' width='400px'>
+      <img src='assets/demos/reddit-mirror.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Reddit Mirror</h3>
@@ -94,7 +103,7 @@ const ale = {
   </tr>
    <tr>
     <td width='440px'>
-      <img src='assets//demos/clients.gif' width='400px'>
+      <img src='assets/demos/clients.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Simple CRM</h3>
@@ -107,7 +116,7 @@ const ale = {
   </tr>
   <tr>
     <td width='440px'>
-      <img src='assets//demos/sitDwnPls.gif' width='400px'>
+      <img src='assets/demos/sitDwnPls.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Online shop SitDownPls</h3>
@@ -125,7 +134,7 @@ const ale = {
   </tr>
   <tr>
     <td width='440px'>
-      <img src='assets//demos/share-notes.gif' width='400px'>
+      <img src='assets/demos/share-notes.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Share notes service</h3>
@@ -138,7 +147,7 @@ const ale = {
   </tr>
   <tr>
     <td width='440px'>
-      <img src='assets//demos/cart-fruit.gif' width='400px'>
+      <img src='assets/demos/cart-fruit.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Simple cart created with React+Redux</h3>
@@ -151,7 +160,7 @@ const ale = {
   </tr>
   <tr>
     <td width='440px'>
-      <img src='assets//demos/students.gif' width='400px'>
+      <img src='assets/demos/students.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Students control panel</h3>
@@ -167,7 +176,7 @@ const ale = {
   </tr>
     <tr>
     <td width='440px'>
-      <img src='assets//demos/memory.gif' width='400px'>
+      <img src='assets/demos/memory.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Simple Memory Game</h3>
@@ -183,7 +192,7 @@ const ale = {
   </tr>
   <tr>
     <td width='440px'>
-      <img src='assets//demos/star-wars-api.gif' width='400px'>
+      <img src='assets/demos/star-wars-api.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Star Wars API</h3>
@@ -199,7 +208,7 @@ const ale = {
   </tr>
     <tr>
     <td width='440px'>
-      <img src='assets//demos/blanchard.gif' width='400px'>
+      <img src='assets/demos/blanchard.gif' width='400px'>
     </td>
     <td with='400px'>
       <h3>Blanchard Gallery</h3>
