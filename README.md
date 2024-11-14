@@ -67,7 +67,7 @@ const ale = {
       <p>Training project for PHP course. </p>
       <p>Technologies: PHP native</p>
       <p>
-        <a href='https://github.com/Alena-Nechaeva/fileStoragePHP'>Go to GitHub repository</a>
+        <a href='https://github.com/Alena-Nechaeva/fileStoragePHP'>Go to GitHub repositoryyyy</a>
       </p>
     </td>
   </tr>
