@@ -60,6 +60,21 @@ const ale = {
 <table>
 <tr>
     <td width='440px'>
+      <img src='assets/demos/coin_app.gif' width='400px'>
+    </td>
+    <td with='400px'>
+      <h3>COIN APP</h3>
+      <p>Training Next+React+TS project. </p>
+      <p>Technologies: React, TS, Next, MUI, WebSocket</p>
+      <p>
+        <a href='https://github.com/Alena-Nechaeva/coin'>Go to GitHub repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+<tr>
+<tr>
+    <td width='440px'>
       <img src='assets/demos/php-course.png' width='400px'>
     </td>
     <td with='400px'>
