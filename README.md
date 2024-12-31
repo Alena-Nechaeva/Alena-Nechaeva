@@ -5,7 +5,7 @@
 ```javascript
 const ale = {
   technologies: {
-    code: ['JS', 'TS', , 'Tailwindcss', 'HTML5', 'CSS/SASS'],
+    code: ['JS', 'TS', 'Tailwindcss','MUI', 'WebSocket', 'HTML5', 'CSS/SASS'],
     tools: ['NextJS', 'ReactJS', 'Redux', 'Jest', 'Cypress'],
     mustHave: ['GIT', 'WebPack', 'Gulp'],
   },
